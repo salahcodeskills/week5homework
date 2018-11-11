@@ -1,9 +1,9 @@
 //create secretNumber
-var secretNumber = 11;
+let secretNumber = 11;
 
 
 //ask user for guess
-var guess = prompt("Guess a number");
+let guess = prompt("Guess a number");
 
 
 //check if guess is right
